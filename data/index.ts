@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Transforming ideas into interactive digital products",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Axell was a game-changer for our business. He took the time to understand our goals and delivered a clean, modern website that exceeded expectations.",
+    name: "Dewi Lestari",
+    title: "Founder of LocalSavvy ID",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Axell is a rare developer who combines technical skills with great communication. Our project was delivered ahead of schedule, and the quality was top-notch.",
+    name: "Rahmat Hidayat",
+    title: "CEO of Bitwave Studio",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I was impressed by how quickly Axell translated our ideas into a fully functional and responsive web app. Highly recommended for anyone needing a reliable fullstack dev!",
+    name: "Sarah Kim",
+    title: "Product Manager at Komerce",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Axell's work ethic and attention to detail are outstanding. From UI design to backend integration, he handled everything smoothly and professionally.",
+    name: "Andi Nugroho",
+    title: "Tech Lead at Growify",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Thanks to Axell, our landing page now looks amazing and loads faster. He also helped optimize our SEO, which boosted our traffic significantly.",
+    name: "Laras Putri",
+    title: "Marketing Lead at Kreasi Digital",
   },
 ];
 
