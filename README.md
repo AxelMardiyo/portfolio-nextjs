@@ -33,6 +33,7 @@ A responsive and interactive portfolio website built with modern technologies to
    cd portfolio-nextjs
    npm install
    npm run dev
-  ```
 
 Open your browser at http://localhost:3000
+  
+
