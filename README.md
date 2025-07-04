@@ -35,4 +35,4 @@ A responsive and interactive portfolio website built with modern technologies to
    npm run dev
   ```
 
-  Open your browser at http://localhost:3000
+Open your browser at http://localhost:3000
